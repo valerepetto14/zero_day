@@ -1,5 +1,8 @@
-#!/bin/bash
-<<<<<<< HEAD
+#!/bi
+
+
+m<<<<<<< HEAD
+echo "This School is so cool!"
 =======
 echo "The school is open!"
 >>>>>>> update_script
